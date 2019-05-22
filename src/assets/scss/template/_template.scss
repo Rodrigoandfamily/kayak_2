@@ -1,0 +1,61 @@
+html ,
+body ,
+.body{
+  background:#6E6767;
+  background-color:#6E6767;
+}
+.header{
+background: #FF5F14;
+background-color: #FF5F14;
+
+.columns{
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  .logo_white{
+    width: 125px;
+  }
+  .user_icon{
+    width: 40px;
+
+  }
+}
+}
+.sub_header{
+  background: 	#C74E0D;
+  background-color: 	#C74E0D;
+
+  .columns{
+    padding-top: 20px;
+    a {
+      color: white;
+      font-size: 15px;
+      font-weight: 700;
+      margin: 0;
+      padding:0;
+      padding-left: 10px;
+    }
+
+    .airplane-icon{
+      width: 25px;
+      margin: 0;
+      padding:0;
+    }
+    .bed-icon{
+      width: 25px;
+      margin: 0;
+      padding:0;
+    }
+    .car-icon{
+      width: 25px;
+      margin: 0;
+      padding:0;
+    }
+    .umbrella-icon{
+      width: 25px;
+      margin: 0;
+      padding:0;
+
+    }
+  }
+}
